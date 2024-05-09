@@ -1,0 +1,127 @@
+[INFO] 19:54:14:477 CPU/(32791:32791): Cliente conectado a Memoria en 127.0.0.1:35002
+[INFO] 19:54:14:477 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:54:14:477 CPU/(32791:32792): Escuchando en 127.0.0.1:35001
+[INFO] 19:54:14:477 CPU/(32791:32792): Esperando cliente...
+[INFO] 19:54:24:482 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:54:34:484 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:54:44:489 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:54:54:491 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:04:494 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:14:495 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:24:495 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:27:940 CPU/(32791:32792): Nuevo Cliente conectado!
+[INFO] 19:55:34:496 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:40:154 CPU/(32791:32792): PID: [0] - Ejecutando: SET CX CKCK
+
+[INFO] 19:55:41:154 CPU/(32791:32792): PID: [0] - Ejecutando: SET BX CHAU
+
+[INFO] 19:55:42:181 CPU/(32791:32792): PID: [0] - Ejecutando: SET AX HOLA
+
+[INFO] 19:55:43:182 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:44:182 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:44:498 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:45:182 CPU/(32791:32792): PID: [0] - Ejecutando: SET RBX BCDEFGHIJKLMNOPQ
+
+[INFO] 19:55:46:183 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:47:184 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:48:192 CPU/(32791:32792): PID: [0] - Ejecutando: SET EAX 01234567
+
+[INFO] 19:55:49:206 CPU/(32791:32792): PID: [0] - Ejecutando: SET ECX 23456789
+
+[INFO] 19:55:50:206 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:51:207 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:52:207 CPU/(32791:32792): PID: [0] - Ejecutando: SET EBX 12345678
+
+[INFO] 19:55:53:211 CPU/(32791:32792): PID: [0] - Ejecutando: SET EDX 34567890
+
+[INFO] 19:55:54:211 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:54:498 CPU/(32791:32791): hilo principal esta ejecutando
+[INFO] 19:55:55:211 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:56:211 CPU/(32791:32792): PID: [0] - Ejecutando: SET RDX DEFGHIJKLMNOPQRS
+
+[INFO] 19:55:57:221 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:55:58:221 CPU/(32791:32792): PID: [0] - Ejecutando: SET RAX ABCDEFGHIJKLMNOP
+
+[INFO] 19:55:59:221 CPU/(32791:32792): PID: [0] - Ejecutando: YIELD
+
+[INFO] 19:56:04:502 CPU/(32791:32791): hilo principal esta ejecutando
+[ERROR] 23:21:32:083 CPU/(3329:3329): Error al conectar a Memoria
+[INFO] 23:21:32:084 CPU/(3329:3329): hilo principal esta ejecutando
+[INFO] 23:21:32:084 CPU/(3329:3330): Escuchando en 0.0.0.0:35001
+[INFO] 23:21:32:084 CPU/(3329:3330): Esperando cliente...
+[INFO] 23:21:36:236 CPU/(3329:3330): Nuevo Cliente conectado!
+[INFO] 23:21:39:259 CPU/(3329:3330): PID: [0] - Ejecutando: SET CX CKCK
+
+[INFO] 23:21:40:264 CPU/(3329:3330): PID: [0] - Ejecutando: SET BX CHAU
+
+[INFO] 23:21:41:264 CPU/(3329:3330): PID: [0] - Ejecutando: SET AX HOLA
+
+[INFO] 23:21:42:085 CPU/(3329:3329): hilo principal esta ejecutando
+[INFO] 23:21:42:265 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:42:266 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:42:312 CPU/(3329:3330): PID: [0] - Ejecutando: SET RBX BCDEFGHIJKLMNOPQ
+
+[INFO] 23:21:43:312 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:43:355 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:43:399 CPU/(3329:3330): PID: [0] - Ejecutando: SET EAX 01234567
+
+[INFO] 23:21:44:400 CPU/(3329:3330): PID: [0] - Ejecutando: SET ECX 23456789
+
+[INFO] 23:21:45:403 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:45:448 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:45:492 CPU/(3329:3330): PID: [0] - Ejecutando: SET EBX 12345678
+
+[INFO] 23:21:46:492 CPU/(3329:3330): PID: [0] - Ejecutando: SET EDX 34567890
+
+[INFO] 23:21:47:493 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:47:535 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:47:579 CPU/(3329:3330): PID: [0] - Ejecutando: SET RDX DEFGHIJKLMNOPQRS
+
+[INFO] 23:21:48:579 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:48:623 CPU/(3329:3330): PID: [0] - Ejecutando: SET RAX ABCDEFGHIJKLMNOP
+
+[INFO] 23:21:49:624 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:49:671 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:49:715 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:49:759 CPU/(3329:3330): PID: [0] - Ejecutando: SET RCX CDEFGHIJKLMNOPQR
+
+[INFO] 23:21:50:759 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:50:807 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:50:851 CPU/(3329:3330): PID: [0] - Ejecutando: YIELD
+
+[INFO] 23:21:50:901 CPU/(3329:3330): PID: [0] - Ejecutando: SET DX KCKC
+
+[INFO] 23:21:51:901 CPU/(3329:3330): PID: [0] - Ejecutando: EXIT
+
+[INFO] 23:21:52:121 CPU/(3329:3329): hilo principal esta ejecutando
+[INFO] 23:24:30:438 CPU/(3437:3437): Cliente conectado a Memoria en 127.0.0.1:35002
+[INFO] 23:24:30:438 CPU/(3437:3437): hilo principal esta ejecutando
+[ERROR] 23:24:30:438 CPU/(3437:3439): Error al bindear el socket servidor
+[INFO] 23:24:40:467 CPU/(3437:3437): hilo principal esta ejecutando
+[INFO] 23:31:08:912 CPU/(3478:3478): Cliente conectado a Memoria en 127.0.0.1:35002
+[INFO] 23:31:08:912 CPU/(3478:3478): hilo principal esta ejecutando
+[ERROR] 23:31:08:912 CPU/(3478:3479): Error al bindear el socket servidor
+[INFO] 23:31:18:914 CPU/(3478:3478): hilo principal esta ejecutando
