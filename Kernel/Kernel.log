@@ -1,0 +1,114 @@
+[INFO] 19:55:27:940 KERNEL/(32813:32813): Cliente conectado a CPU en 127.0.0.1:35001
+[INFO] 19:55:27:940 KERNEL/(32813:32813): Cliente conectado a FileSystem en 127.0.0.1:35002
+[INFO] 19:55:27:940 KERNEL/(32813:32813): Cliente conectado a Memoria en 127.0.0.1:35003
+[INFO] 19:55:27:940 KERNEL/(32813:32813): hilo principal esta ejecutando
+[INFO] 19:55:27:940 KERNEL/(32813:32817): Escuchando en 127.0.0.1:33668
+[INFO] 19:55:27:940 KERNEL/(32813:32817): Esperando cliente...
+[INFO] 19:55:40:153 KERNEL/(32813:32817): Nuevo Cliente conectado!
+[INFO] 19:55:40:154 KERNEL/(32813:32817): Esperando cliente...
+[INFO] 19:55:40:154 KERNEL/(32813:32827): Se crea el proceso PID: [0] en NEW
+[INFO] 19:55:40:154 KERNEL/(32813:32827): PID: [0] - Estado Anterior: NEW - Estado Actual: READY
+[INFO] 19:55:40:154 KERNEL/(32813:32827): Cola de READY (FIFO): [0]
+[INFO] 19:55:40:154 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:43:182 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:43:182 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:43:182 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:44:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:44:224 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:44:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:46:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:46:224 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:46:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:47:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:47:224 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:47:224 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:47:940 KERNEL/(32813:32813): hilo principal esta ejecutando
+[INFO] 19:55:50:249 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:50:249 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:50:249 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:51:248 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:51:248 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:51:248 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:54:254 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:54:254 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:54:254 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:55:252 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:55:252 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:55:252 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 19:55:57:264 KERNEL/(32813:32815): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 19:55:57:264 KERNEL/(32813:32815): Cola de READY (FIFO): [0]
+[INFO] 19:55:57:264 KERNEL/(32813:32815): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:36:236 KERNEL/(3339:3339): Cliente conectado a CPU en 127.0.0.1:35001
+[ERROR] 23:21:36:237 KERNEL/(3339:3339): Error al conectar a FileSystem
+[ERROR] 23:21:36:237 KERNEL/(3339:3339): Error al conectar a Memoria
+[INFO] 23:21:36:237 KERNEL/(3339:3339): hilo principal esta ejecutando
+[INFO] 23:21:36:237 KERNEL/(3339:3342): Escuchando en 0.0.0.0:33668
+[INFO] 23:21:36:237 KERNEL/(3339:3342): Esperando cliente...
+[INFO] 23:21:39:257 KERNEL/(3339:3342): Nuevo Cliente conectado!
+[INFO] 23:21:39:257 KERNEL/(3339:3342): Esperando cliente...
+[INFO] 23:21:39:257 KERNEL/(3339:3352): Se crea el proceso PID: [0] en NEW
+[INFO] 23:21:39:258 KERNEL/(3339:3352): PID: [0] - Estado Anterior: NEW - Estado Actual: READY
+[INFO] 23:21:39:258 KERNEL/(3339:3352): Cola de READY (FIFO): [0]
+[INFO] 23:21:39:258 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:42:265 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:42:265 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:42:265 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:42:311 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:42:311 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:42:311 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:43:355 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:43:355 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:43:355 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:43:399 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:43:399 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:43:399 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:45:447 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:45:447 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:45:447 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:45:491 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:45:491 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:45:491 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:47:535 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:47:535 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:47:535 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:47:579 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:47:579 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:47:579 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:48:623 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:48:623 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:48:623 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:49:671 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:49:671 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:49:671 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:49:715 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:49:715 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:49:715 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:49:759 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:49:759 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:49:759 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:50:806 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:50:806 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:50:806 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:50:851 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:50:851 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:50:851 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:50:901 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: READY
+[INFO] 23:21:50:901 KERNEL/(3339:3341): Cola de READY (FIFO): [0]
+[INFO] 23:21:50:901 KERNEL/(3339:3341): PID: [0] - Estado Anterior: READY - Estado Actual: EXEC
+[INFO] 23:21:51:944 KERNEL/(3339:3341): PID: [0] - Estado Anterior: EXEC - Estado Actual: EXIT
+[INFO] 23:21:51:944 KERNEL/(3339:3341): Finaliza el proceso [0] - Motivo: SUCCESS
+[INFO] 23:21:56:237 KERNEL/(3339:3339): hilo principal esta ejecutando
+[INFO] 23:24:35:030 KERNEL/(3442:3442): Cliente conectado a CPU en 127.0.0.1:35001
+[INFO] 23:24:35:031 KERNEL/(3442:3442): Cliente conectado a FileSystem en 127.0.0.1:35002
+[INFO] 23:24:35:031 KERNEL/(3442:3442): Cliente conectado a Memoria en 127.0.0.1:35003
+[INFO] 23:24:35:031 KERNEL/(3442:3442): hilo principal esta ejecutando
+[ERROR] 23:24:35:031 KERNEL/(3442:3446): Error al bindear el socket servidor
+[ERROR] 23:24:35:031 KERNEL/(3442:3446): error al crear socket kernel
+
+[INFO] 23:31:10:232 KERNEL/(3482:3482): Cliente conectado a CPU en 127.0.0.1:35001
+[INFO] 23:31:10:232 KERNEL/(3482:3482): Cliente conectado a FileSystem en 127.0.0.1:35002
+[INFO] 23:31:10:232 KERNEL/(3482:3482): Cliente conectado a Memoria en 127.0.0.1:35003
+[INFO] 23:31:10:232 KERNEL/(3482:3482): hilo principal esta ejecutando
+[ERROR] 23:31:10:233 KERNEL/(3482:3485): Error al bindear el socket servidor
+[ERROR] 23:31:10:233 KERNEL/(3482:3485): error al crear socket kernel
+

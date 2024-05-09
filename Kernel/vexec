@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE=Kernel
+make $FILE
+if test -f "./$FILE"; then
+    valgrind -s --tool=memcheck --leak-check=full --show-possibly-lost=no --show-reachable=no --show-leak-kinds=all --num-callers=20 ./$FILE Kernel.cfg
+fi
